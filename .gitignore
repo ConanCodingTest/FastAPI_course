@@ -1,1 +1,9 @@
-/fastapienv/
+# Python
+__pycache__/
+
+# DB
+*.db
+
+# Virtual Environment
+fastapienv/
+.env

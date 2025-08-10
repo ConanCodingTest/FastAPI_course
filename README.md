@@ -30,6 +30,10 @@
 # Project 3 : New information includes:
 
     1. SQL Database
-    2. Authentication
-    3. Authorization
+        - SQLite
+        - Postgresql
+        - Mysql
+    2. JWT(Json Web Token)
+        - Authentication
+        - Authorization(admin、User)
     4. Hashing Passwords
