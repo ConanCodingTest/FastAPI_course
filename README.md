@@ -1,4 +1,4 @@
-## Project 2 : BookAPP:
+## Project 1 : BookAPP:
 
     1. Learn request method of HTTP
     2. Data Validation
@@ -37,3 +37,4 @@
         - Authorization(admin、User)
     3. Hashing Passwords
     4. Pytest(unit test、integration test)
+    5. Frontend with jinja template
