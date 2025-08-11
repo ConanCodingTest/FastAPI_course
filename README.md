@@ -1,16 +1,15 @@
-# Project 1 : Learn request method of HTTP
+## Project 2 : BookAPP:
 
-# Project 2 : New information includes:
-
-    1. Data Validation
+    1. Learn request method of HTTP
+    2. Data Validation
         - pydantics(Post、Put)
         - Path and Query parameter(Get、Delete)
             - gt=0 # >0 greater than
             - ge=0 # >=0 greater than or equal
             - le=0 # <=0 less than
             - lt=0 # <0 less than or equal
-    2. Exception handling
-    3. Status code
+    3. Exception handling
+    4. Status code
         - 1xx : Information Response(Request Processing)
         - 2xx : Success(Request Successfully complete)
             - 200:OK( Get)
@@ -24,10 +23,10 @@
             - 422:Unprocessable Entity(Semantic Error in Client Request)
         - 5xx : Server Errors : An error occurred on the server
             - 500:Internal Server error(Generic Error)
-    4. Swagger Configuration
-    5. Python request objects
+    5. Swagger Configuration
+    6. Python request objects
 
-# Project 3 : New information includes:
+## Project 2 : TodoApp:
 
     1. SQL Database
         - SQLite
@@ -36,4 +35,5 @@
     2. JWT(Json Web Token)
         - Authentication
         - Authorization(admin、User)
-    4. Hashing Passwords
+    3. Hashing Passwords
+    4. Pytest(unit test、integration test)
